@@ -11,6 +11,6 @@ function bindEven(){
   	alert("tag clicl");
 
   });
-  var html=' <li><a href="#">小游戏2</a></li>'
-  $(".navbar-nav").append(html);
+  // var html=' <li><a href="#">小游戏2</a></li>'
+  // $(".navbar-nav").append(html);
 }
