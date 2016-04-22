@@ -1,5 +1,7 @@
 html,body{width: 100%;height: 100%}
 body{background: url("../img/content13.jpg") no-repeat fixed 0 0 / 100% auto}
+.container1{background: #333;opacity: 0.8;color: #fff;height: 500px;width: 100%;padding-top: 100px}
+.container1 p{width: 60%;font-size: 30px;text-align: center;margin: 0 auto;line-height: 90px;}
 .container{background: #fff;opacity: 0.9;height: 1000px}
 .header{height: 80px;background: #333;opacity: 0.9;width: 100%; box-shadow: 0 0 5px #222;}
 .navbar {
@@ -21,3 +23,6 @@ body{background: url("../img/content13.jpg") no-repeat fixed 0 0 / 100% auto}
 .navbar-default .navbar-nav > li > a {
     color: #fff;
 }
+.page1{background: #d582e4}
+.page2{background: #c4f7ef}
+.page3{background: #438fdd}
